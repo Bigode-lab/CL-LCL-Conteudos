@@ -1,0 +1,2 @@
+Vídeo Aula - Máquina de Estados: introdução e máquinas de Moore: https://www.youtube.com/watch?v=pU5pkBi7Mzo
+Vídeo Aula - Máquina de Estados: máquinas de Mealy: https://www.youtube.com/watch?v=1K19FlMghas

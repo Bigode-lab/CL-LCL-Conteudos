@@ -1,0 +1,3 @@
+Vídeo aula - Álgebra Booleana parte 1: https://unbbr-my.sharepoint.com/personal/ckoike_unb_br/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fckoike%5Funb%5Fbr%2FDocuments%2FCLAntigos%2FAlgebra%20Booleana%20Parte%201%20LowRes%2Empeg&parent=%2Fpersonal%2Fckoike%5Funb%5Fbr%2FDocuments%2FCLAntigos&ga=1
+
+Vídeo aula - Álgebra Booleana parte 2 : https://unbbr-my.sharepoint.com/personal/ckoike_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fckoike%5Funb%5Fbr%2FDocuments%2FCLAntigos%2FAlgebra%20Boolena%20Parte%202%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview

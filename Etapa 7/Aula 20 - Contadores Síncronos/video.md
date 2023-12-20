@@ -1,0 +1,1 @@
+Vídeo Aula - Contadores Síncronos: https://www.youtube.com/watch?v=3fi_nQcbUxQ

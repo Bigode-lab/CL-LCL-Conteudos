@@ -1,0 +1,1 @@
+Vídeo aula - Decodificadores (parte 2): https://www.youtube.com/watch?v=ckiScx1dkVo

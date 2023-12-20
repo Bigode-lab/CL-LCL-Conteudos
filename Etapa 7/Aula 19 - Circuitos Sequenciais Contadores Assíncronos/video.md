@@ -1,0 +1,1 @@
+Vídeo Aula - Circuitos Sequenciais: Contadores Assíncronos: https://www.youtube.com/watch?v=KGNdJp18OaE

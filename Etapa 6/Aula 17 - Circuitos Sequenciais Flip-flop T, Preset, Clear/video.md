@@ -1,0 +1,1 @@
+Vídeo Aula - Circuitos Sequenciais: Flip-flop T, Preset, Clear: https://www.youtube.com/watch?v=4MpM_y47-tU

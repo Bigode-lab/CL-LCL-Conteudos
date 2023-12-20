@@ -1,0 +1,1 @@
+Vídeo Aula - Circuitos Sequenciais: Clock, Latches controlados,Flip-flop RS, D e JK: https://www.youtube.com/watch?v=JdGgwbrxMvY

@@ -1,0 +1,1 @@
+Vídeo Aula - Circuitos Sequenciais: Exemplo, Latch RS simples, Latch D simples: https://www.youtube.com/watch?v=nbCjQSbN_dU

@@ -1,0 +1,1 @@
+Vídeo Aula - Máquina de Estados: Resolução de Exercícios: https://www.youtube.com/watch?v=irpwLS06ZQ0

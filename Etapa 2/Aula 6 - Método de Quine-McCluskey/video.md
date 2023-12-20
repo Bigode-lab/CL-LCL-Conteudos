@@ -1,0 +1,1 @@
+Vídeo aula - Metodo de Quine-McCluskey: https://unbbr-my.sharepoint.com/personal/ckoike_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2Fckoike%5Funb%5Fbr%2FDocuments%2FCLAntigos%2FQuineMcClusckey%2Emov&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview

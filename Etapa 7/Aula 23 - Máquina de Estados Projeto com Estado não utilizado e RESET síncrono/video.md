@@ -1,0 +1,1 @@
+Vídeo Aula - Máquina de Estados: Projeto com Estado não utilizado e RESET síncrono: https://www.youtube.com/watch?v=kTapyAKPUgU

@@ -1,0 +1,1 @@
+Vídeo Aula - Circuitos Sequenciais: Registradores, Contador em anel: https://www.youtube.com/watch?v=WbDEeDVp-5I

@@ -1,0 +1,1 @@
+Vídeo Aula - Máquina de Estados: Projeto com FF T e Análise de Circuitos Sequenciais: https://www.youtube.com/watch?v=GKdKXaMhAMU

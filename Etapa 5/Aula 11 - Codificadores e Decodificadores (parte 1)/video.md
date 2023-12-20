@@ -1,0 +1,1 @@
+Vídeo Aula - Codificadores e Decodificadores: https://www.youtube.com/watch?v=hScbq-QPmLs
